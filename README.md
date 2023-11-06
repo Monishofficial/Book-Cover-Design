@@ -1,4 +1,4 @@
-![output](https://github.com/Darkwebnew/cover/assets/143114486/da77ce84-cd03-4fec-8743-6f28ea393183)# Ex.06 Book Front Cover Page Design
+# Ex.06 Book Front Cover Page Design
 
 ## DATE:
 

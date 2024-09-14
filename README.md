@@ -1,6 +1,6 @@
-# EX 06 Book Front Cover Page Design
+# EX 05 Book Front Cover Page Design
 
-## DATE:17/10/2023
+## DATE:14/09/2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -123,7 +123,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![code](https://github.com/Darkwebnew/cover/assets/143114486/8b08e009-bcf0-4e8a-8673-380c7af69b83)
-![output](https://github.com/Darkwebnew/cover/assets/143114486/deb85b21-6dd0-4c1d-aa99-55163f10dd83)
+
+
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.

@@ -1,4 +1,4 @@
-# EX 05 Book Front Cover Page Design
+# Ex-5: Book Cover Design
 
 ## DATE:14-09-2024
 

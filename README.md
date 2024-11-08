@@ -1,6 +1,5 @@
 # Ex-5: Book Cover Design
-
-## DATE:14-09-2024
+## DATE: 08-11-2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -26,6 +25,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -45,14 +45,14 @@ Publish the website in the given URL.
         .bookpage {
             width: 400px;
             height: 600px;
-            color: rgb(0, 255, 60);
+            color: rgb(13, 244, 151);
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(Slide2.PNG);
+            background-image: url(image1.jpg);
             background-size: cover;
         }
         .insight{
-            color: rgb(0, 255, 60);
+            color: rgba(255, 213, 0, 0.952);
         }
         .hrstyle{
             width:100px;
@@ -60,8 +60,8 @@ Publish the website in the given URL.
         .author{
             display: inline;
             position: relative;
-            color: rgb(0, 255, 60);
-            top:190px;
+            color: rgb(200, 255, 0);
+            top:330px;
             font-family:Georgia;
             font-size: medium;
         }
@@ -75,20 +75,20 @@ Publish the website in the given URL.
         .id {
             width:400px;
             position: relative;
-            top:180px;
+            top:310px;
         }
         .pub{
             font-size: medium;
             position: relative;
-            top:155px;
+            top:300px;
             left:330px;
         }
         .ed{
-            color: rgb(0, 255, 60);
+            color: rgb(13, 244, 151);
             font-size: medium;
             font-family: Verdana;
             position:relative;
-            top:85px;
+            top:219px;
         }
         .subtitle{
             font-family:Tahoma;
@@ -110,12 +110,11 @@ Publish the website in the given URL.
     <body>
         <div class="bookpage">
             <div class="insight">EXPERT INSIGHT</div>
-            <div class="hrstyle"><hr style="color: rgb(0, 255, 60);"></div>
-            <div class="booktitle"><h1>WHITE AND BLACK HAT HACKING BASICS TO PROFESSIONAL</h1></div>
-            <div class="subtitle">METHODOLOGY TO UNETHICAL HACKING</div>
-            <div class="mypic"><img src="my image.png" width="130" height="145" alt=""></div>
-            <div class="id"><hr style="color: rgb(0, 255, 60);"></div>
-            <div class="author"><p><b>BY SRIRAM</b></p></div>
+            <div class="hrstyle"><hr style="color: rgb(0, 255, 68);"></div>
+            <div class="booktitle"><h1>AI: Transforming Data  Into  Decisions.</h1></div>
+            <div class="subtitle">AI: Your Partner in Progress</div>
+            <div class="id"><hr style="color: rgb(9, 235, 160);"></div>
+            <div class="author"><p><b>BY MONISH N</b></p></div>
             <div class="pub">OPEN >>></div>
             <div class="ed"><b>Special Edition</b></div>
         </div>
@@ -123,10 +122,6 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
-![Screenshot 2024-09-14 222956](https://github.com/user-attachments/assets/698763f7-a75a-494d-866a-66808b73b88f)
-
-![Screenshot 2024-09-14 223035](https://github.com/user-attachments/assets/248a3d6a-a32f-42ce-944f-60f4eee55a7c)
-
+![alt text](<Screenshot (198).png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
